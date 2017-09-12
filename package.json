@@ -2,6 +2,10 @@
   "name": "monterrei",
   "version": "1.0.0",
   "description": "Monterrei's Castle website",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jacoboAR/monterrei.git"
+  },  
   "main": "webpack.config.js",
   "scripts": {
     "start": "webpack-dev-server --open --config webpack.dev.js",
